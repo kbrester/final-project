@@ -1,6 +1,6 @@
 # Final Project: Digital Concept Tutorial
 ## Personal Computer Profile by Kelsey Brester
-### Components of My PC: HP Envyx360 (2022) and Their Functions
+### Components of My PC: HP Envyx360 (2022) and Its Functions
 #### 1. Features: touchscreen, backlit keyboard, webcam
 * Touchscreen: allows user to interact with device by touching it with their fingers or a stylus  
 * Backlit keyboard: illuminates keys on a keyboard to make them easier to see in low light conditions  
