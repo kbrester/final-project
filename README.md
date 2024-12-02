@@ -19,9 +19,16 @@
 #### 5. Hard Drive Capacity: 512 GB
 * The hard drive capacity can store 512 gigabytes of data
 #### 6. Operating System: Windows 10 Home
+* Consumer version of the Windows 10 operating system, providing all the essential features for everday computer use, but lacking advanced features found in the Pro version, making it suitable for most home users.
 #### 7. Processor Core Type: Quad-Core
+* Can handle multiple tasks at the same time by using its four independent processing units, or cores.
 #### 8. Processor Speed: 4.2 GHz
+* The CPU can execute instructions at a rate of 4.2 billion cycles per second, signifying a realtively high processing power which is suitable for demanding tasks.
 #### 9. Optical Disk Drive Type: No optical drive
+* This computer is unable to read or write data from a CD, DVD, or Blu-ray disc.
 #### 10. RAM Memory Speed: 3200 MHz
+* RAM can access data at a rate of 3200 million cycles per second, meaning it can retrieve and store information from the CPU, translating to overall faster system performance.
 #### 11. Solid State Drive Capacity: 512 GB
+* Common storage space for most performance tasks.
 #### 12. RAM Memory Type: DDR SDRAM
+* Significantly increases data transfer speeds by transferring data on rising and falling edges of a clock signal, doubling the bandwidth compared to SDRAM.
