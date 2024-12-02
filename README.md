@@ -1,5 +1,7 @@
 # Final Project: Digital Concept Tutorial
 ## Personal Computer Profile by Kelsey Brester
+### Brief Summary of the Purpose and Content of Tutorial 
+_Components of My PC: HP Envyx360 (2022) and Its Functions_ offers an overview of the laptop’s features and specifications, highlighting its usability and performance. It covers the touchscreen, backlit keyboard, and webcam, along with a 15.6-inch FHD multitouch display with IPS technology and a sleek microedge design. Key components include 8 GB DDR SDRAM for multitasking, a quad-core processor with a 4.2 GHz speed for efficient performance, and a 512 GB SSD for ample storage and quick data access. The device operates on Windows 10 Home and lacks an optical drive, making it lightweight and modern. Screen brightness (250 nits) and color gamut (45% NTSC) round out the discussion, providing a clear understanding of the laptop's capabilities.
 ### Components of My PC: HP Envyx360 (2022) and Its Functions
 #### 1. Features: touchscreen, backlit keyboard, webcam
 * Touchscreen: allows user to interact with device by touching it with their fingers or a stylus  
